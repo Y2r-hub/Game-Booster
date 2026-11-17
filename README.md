@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Game Booster – Play Smoothly (v0.5.0)
 
 A lightweight Android gaming companion built with Kotlin and Jetpack Compose.
@@ -39,3 +40,6 @@ A lightweight Android gaming companion built with Kotlin and Jetpack Compose.
 - Kotlin + Jetpack Compose
 
 Build/run verification has not been performed in this environment. Test on a physical low-end phone before publishing.
+=======
+# Game-Booster
+>>>>>>> 7df257273dd8d5f33107e267beabc80ff8fe9183
